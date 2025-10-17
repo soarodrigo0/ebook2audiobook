@@ -4,7 +4,7 @@ using XTTSv2, Bark, Vits, Fairseq, YourTTS, Tacotron and more. Supports voice cl
 > [!IMPORTANT]
 **This tool is intended for use with non-DRM, legally acquired eBooks only.** <br>
 The authors are not responsible for any misuse of this software or any resulting legal consequences. <br>
-Use this tool responsibly and in accordance with all applicable laws.
+Use this tool responsibly and in accordance with all applicable laws.1
 
 [![Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/63Tv3F65k6)](https://discord.gg/63Tv3F65k6)
 
